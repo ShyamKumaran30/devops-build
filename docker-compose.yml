@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    image: shyam302000/devops-build:dev
+    ports:
+      - "80:80"
+    restart: always
