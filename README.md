@@ -1,1 +1,1 @@
-Auto Trigger 
+ Auto trigger test at <time>
