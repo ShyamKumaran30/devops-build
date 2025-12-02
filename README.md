@@ -1,1 +1,1 @@
-updated pipeline test
+Auto Trigger 
